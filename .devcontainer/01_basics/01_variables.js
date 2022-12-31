@@ -14,7 +14,7 @@ Prefer not to use var beccause of issue in block scope and functional scope
 */
 
 let accountState;
-
+// accountState vanne variable hamile introduce garayem tara tesko value diyenam that means it is undefined
 
  console.table ([accountEmail,accountId,accountPassword,accountCity,accountState])
  
