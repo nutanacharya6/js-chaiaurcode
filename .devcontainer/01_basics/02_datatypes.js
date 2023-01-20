@@ -18,4 +18,4 @@ console.log(typeof "Nutan")
 console.log(typeof age)
 console.log (typeof null)
 console.log( typeof undefined)
-// type of null is object but data type of undefined is undefined
+// data type of null is object but data type of undefined is undefined
