@@ -12,7 +12,7 @@ let state = "null"
 //number
 //BigInt
 // null - standalone value for e.g. kahile kai server ma kei problem aauxa ani timlai 0 dinuko satta null diyo vane it's good like timle temp sodda server kaam nagarda 0 dinu vanda null is okay 
-// undefined - variable introduce garera value nadini
+// undefined - variable introduce garera value nadidako aaune value
 // symbol - unique chiz ho vanera identify garna
 console.log(typeof "Nutan")
 console.log(typeof age)
